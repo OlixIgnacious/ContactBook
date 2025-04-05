@@ -30,6 +30,7 @@ A clean, production-grade **Contact Book** application built in **Java**, using 
 ---
 
 ## 📂 Project Structure
+```bash
 ContactBook/
 ├── src/
 │   ├── main/
@@ -48,7 +49,7 @@ ContactBook/
 ├── pom.xml
 └── README.md
 
-
+```
 ---
 
 ## 🚀 Getting Started
