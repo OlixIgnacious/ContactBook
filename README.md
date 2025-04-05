@@ -1,17 +1,15 @@
 # 📒 ContactBook
 
-A clean, production-grade **Contact Book** application built in **Java**, using well-structured design patterns like **Service Layer**, **Factory**, and optionally **Trie** or **HashMap** for optimized performance.
+A clean, production-grade **Contact Book** application built in **Java**, using well-structured design patterns like **Service Layer**, **Factory**, and optionally **HashMap** for optimized performance.
 
-> ✅ Designed for maintainability, testability (JUnit + Mockito), and scalability.
+> ✅ Designed for maintainability, testability (JUnit), and scalability.
 
 ---
 
 ## ✨ Features
 
 - 🔍 Add, view, search, and delete contacts
-- 🔤 Auto-suggestions using Trie (optional branch)
-- 📊 Sorted contact listings using TreeMap (optional branch)
-- 🧪 Unit-tested with **JUnit 5** and **Mockito**
+- 🧪 Unit-tested with **JUnit 5**
 - 🧩 Interface-driven architecture for easy extension
 - 💡 Clean code with SOLID principles and best practices
 
@@ -56,7 +54,7 @@ ContactBook/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/OlixIgnacious/ContactBook.git
+git clone https://github.com/OlixIgnacious/ContactBook.git <br>
 cd ContactBook
 
 ### 2. Build the Project
