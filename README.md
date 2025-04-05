@@ -22,7 +22,7 @@ A clean, production-grade **Contact Book** application built in **Java**, using 
 | Language       | Java 17+         |
 | Build Tool     | Maven            |
 | Testing        | JUnit 5 + Mockito |
-| Data Structure | HashMap / Trie / TreeMap |
+| Data Structure | HashMap          |
 | IDE            | VS Code / IntelliJ IDEA |
 
 ---
