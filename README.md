@@ -38,12 +38,10 @@ ContactBook/
 │   │               └── contactbook/
 │   │                   ├── model/
 │   │                   ├── service/
-│   │                   ├── serviceImpl/
-│   │                   └── utils/
+│   │                   └── App/
 │   └── test/
 │       └── java/
 │           └── com/olixstudios/contactbook/
-│               └── service/
 ├── pom.xml
 └── README.md
 
