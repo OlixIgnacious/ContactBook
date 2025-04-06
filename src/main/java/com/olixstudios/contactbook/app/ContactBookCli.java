@@ -22,7 +22,7 @@ public class ContactBookCli {
             System.out.print("Choose: ");
 
             int choice = scanner.nextInt();
-            scanner.nextLine(); // consume newline
+            scanner.nextLine(); 
 
             switch (choice) {
                 case 1 -> {
